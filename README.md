@@ -1,4 +1,4 @@
-# benin-industrial-backbone
+# Benin-industrial-Backbone
 Industrial Operating System for Benin (GDIZ, PAC, Agro-industry). Integrated SCM (MIT standards), Production (OEE/TRS), and Logistics (TMS/WMS) via SAP and Siemens Xcelerator paradigms.
 
 # BIB - Benin Industrial Backbone
